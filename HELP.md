@@ -57,3 +57,9 @@ After completing all the steps in correct order you will recieve this output on 
   "status": "ok"
 }
 ````
+---
+
+### Verification Status
+As shown in **Step 4** above, when you hit the `/health` endpoint, you will receive the verified JSON response: `{"status": "ok"}`.
+
+> ##  CONGRATULATIONS! YOU NAILED IT!
